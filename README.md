@@ -2,6 +2,8 @@
 
 This repository contains code for training a reinforcement learning agent to play the classic Snake game using PyTorch.
 
+![Snake AI Demo](docs/snakeDemo.gif)
+
 ## Files
 
 - `model.py` — Defines the neural network model and training logic.
